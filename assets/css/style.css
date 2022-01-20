@@ -914,6 +914,7 @@ body:not(.v-dark) .site-header .main-logo .dark-logo {
   pointer-events: all;
 }
 .site-header .inner-header .main-logo img {
+  width: 78px;
   height: auto;
 }
 .site-header .main-navigation {
