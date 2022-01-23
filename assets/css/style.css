@@ -42,7 +42,7 @@
 :root, :root .v-light, :root .v-light-head {
   --bg-color: #fff;
   --assistant-color: #f1f1f1;
-  --theme-color: #14bfb5;
+  --theme-color: #00f698;
   --font-color: #0009;
   --heading-color: #000;
   --border-color: #cccccc;
@@ -53,7 +53,7 @@
 
 :root .v-dark, :root .v-dark-head {
   --bg-color: #000;
-  --assistant-color: #080808;
+  --assistant-color: #0e0e0e;
   --theme-color: #00f698;
   --font-color: #bbb;
   --heading-color: #fff;
@@ -67,7 +67,7 @@
   .v-dark-head-mobile {
     --bg-color: #000;
     --assistant-color: #101010;
-    --theme-color: #14bfb5;
+    --theme-color: #00f698;
     --font-color: #bbb;
     --heading-color: #fff;
     --border-color: rgba(255, 255, 255, 0.07);
@@ -212,7 +212,7 @@ body:not(.v-dark) .main-root > .side-bar-full {
   writing-mode: vertical-lr;
   transform: rotate(180deg);
   pointer-events: none;
-  opacity: 0.25;
+  opacity: 0.15;
   will-change: transform;
 }
 .text-stroke-box .text-stroke-inner.dsn-animate {
